@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: um-programme-code-finder
+    runtime: static
+    buildCommand: echo "Static site ready"
+    staticPublishPath: .

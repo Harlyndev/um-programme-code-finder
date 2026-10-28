@@ -1,0 +1,1442 @@
+[
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Islamic Management & Finance",
+    "code": "SCWIQBFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Islamic Management & Finance"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Da’wah Development",
+    "code": "SCWIQAFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Da’wah Development"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Halal Management",
+    "code": "SCWIQCFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Halal Management"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Shariah (Contemporary Studies)",
+    "code": "SMMIOKFTCV01",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Shariah (Contemporary Studies)"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Usuluddin (Islamic Thought & Civilization)",
+    "code": "SMMIOJFTCV01",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Usuluddin (Islamic Thought & Civilization)"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Usuluddin (Al-Quran & Al-Hadith)",
+    "code": "SMMIOGFTCV02",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Usuluddin (Al-Quran & Al-Hadith)"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Shariah",
+    "code": "SRSIMAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Shariah"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Usuluddin",
+    "code": "SRSIMBFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Usuluddin"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Master of Islamic Studies",
+    "code": "SRSIMCFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Master of Islamic Studies"
+  },
+  {
+    "faculty": "Academy of Islamic Studies",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSIVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Islamic Studies||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Academy of Malay Studies",
+    "programme": "Master of Arts in Malay Studies",
+    "code": "SCWJQBFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Malay Studies||Master of Arts in Malay Studies"
+  },
+  {
+    "faculty": "Academy of Malay Studies",
+    "programme": "Master of Malay Studies",
+    "code": "SRSJMAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Malay Studies||Master of Malay Studies"
+  },
+  {
+    "faculty": "Academy of Malay Studies",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSJVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Academy of Malay Studies||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Languages & Linguistics",
+    "programme": "Master of English Language Studies",
+    "code": "SCWTOAFTCV04",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Faculty of Languages & Linguistics||Master of English Language Studies"
+  },
+  {
+    "faculty": "Faculty of Languages & Linguistics",
+    "programme": "Master of Arts (Linguistics)",
+    "code": "SMMTOAFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Faculty of Languages & Linguistics||Master of Arts (Linguistics)"
+  },
+  {
+    "faculty": "Faculty of Languages & Linguistics",
+    "programme": "Master of English Language Studies (Part-Time)",
+    "code": "SCWTOAPTCV04",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Faculty of Languages & Linguistics||Master of English Language Studies (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Languages & Linguistics",
+    "programme": "Master of Arts (Linguistics) (ODL)",
+    "code": "SMMTOAPTD03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Faculty of Languages & Linguistics||Master of Arts (Linguistics) (ODL)"
+  },
+  {
+    "faculty": "Faculty of Languages & Linguistics",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSTVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page10.html",
+    "key": "Faculty of Languages & Linguistics||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Computer Science & Information Technology",
+    "programme": "Master of Cyber Security",
+    "code": "SCWWQEFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Computer Science & Information Technology||Master of Cyber Security"
+  },
+  {
+    "faculty": "Faculty of Computer Science & Information Technology",
+    "programme": "Master of Data Science",
+    "code": "SCWWQDFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Computer Science & Information Technology||Master of Data Science"
+  },
+  {
+    "faculty": "Faculty of Computer Science & Information Technology",
+    "programme": "Master of Artificial Intelligence",
+    "code": "SCWWQFFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Computer Science & Information Technology||Master of Artificial Intelligence"
+  },
+  {
+    "faculty": "Faculty of Computer Science & Information Technology",
+    "programme": "Master of Computer Science (Applied Computing)",
+    "code": "SMMWOAFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Computer Science & Information Technology||Master of Computer Science (Applied Computing)"
+  },
+  {
+    "faculty": "Faculty of Computer Science & Information Technology",
+    "programme": "Master of Software Engineering (Software Technology)",
+    "code": "SMMWOCFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Computer Science & Information Technology||Master of Software Engineering (Software Technology)"
+  },
+  {
+    "faculty": "Faculty of Computer Science & Information Technology",
+    "programme": "Master of Computer Science",
+    "code": "SRSWMAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Computer Science & Information Technology||Master of Computer Science"
+  },
+  {
+    "faculty": "Faculty of Computer Science & Information Technology",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSWVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Computer Science & Information Technology||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Creative Arts",
+    "programme": "Master of Dance",
+    "code": "SCWRQAFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Creative Arts||Master of Dance"
+  },
+  {
+    "faculty": "Faculty of Creative Arts",
+    "programme": "Master of Performing Arts (Music)",
+    "code": "SMMROAFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Creative Arts||Master of Performing Arts (Music)"
+  },
+  {
+    "faculty": "Faculty of Creative Arts",
+    "programme": "Master of Performing Arts (Drama)",
+    "code": "SMMROBFTCV02",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Creative Arts||Master of Performing Arts (Drama)"
+  },
+  {
+    "faculty": "Faculty of Creative Arts",
+    "programme": "Master of Arts (Visual Arts)",
+    "code": "SMMRODFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Creative Arts||Master of Arts (Visual Arts)"
+  },
+  {
+    "faculty": "Faculty of Creative Arts",
+    "programme": "Master of Arts",
+    "code": "SRSRMAFTCV05",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Creative Arts||Master of Arts"
+  },
+  {
+    "faculty": "Faculty of Creative Arts",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSRVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Creative Arts||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Sports & Exercise Sciences",
+    "programme": "Master of Strength & Conditioning",
+    "code": "SCWVQCFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Sports & Exercise Sciences||Master of Strength & Conditioning"
+  },
+  {
+    "faculty": "Faculty of Sports & Exercise Sciences",
+    "programme": "Master of Sports Administration & Leadership",
+    "code": "SCWVQBFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Sports & Exercise Sciences||Master of Sports Administration & Leadership"
+  },
+  {
+    "faculty": "Faculty of Sports & Exercise Sciences",
+    "programme": "Master of Sport Science",
+    "code": "SRSVMAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Sports & Exercise Sciences||Master of Sport Science"
+  },
+  {
+    "faculty": "Faculty of Sports & Exercise Sciences",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSVVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page11.html",
+    "key": "Faculty of Sports & Exercise Sciences||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Public Health",
+    "code": "SCWMQBFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Public Health"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Medical Physics",
+    "code": "SCWMQAFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Medical Physics"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Nursing Science",
+    "code": "SCWMQDFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Nursing Science"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Medical Education",
+    "code": "SCWMQEFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Medical Education"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Health Research Ethics",
+    "code": "SCWMQFFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Health Research Ethics"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Medical Parasitology & Entomology",
+    "code": "SCWMQGFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Medical Parasitology & Entomology"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Epidemiology",
+    "code": "SCWMQHFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Epidemiology"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Medical Science",
+    "code": "SRSMMFFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Medical Science"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Master of Nursing Science (Part-Time)",
+    "code": "SCWMQDPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Master of Nursing Science (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Doctor of Public Health",
+    "code": "KMMMWAFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Doctor of Public Health"
+  },
+  {
+    "faculty": "Faculty of Medicine",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSMVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Medicine||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Business Administration",
+    "code": "SCWCQCFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Business Administration"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Business Administration (Dual Programme)",
+    "code": "SCWCQCFTDU03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Business Administration (Dual Programme)"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Management",
+    "code": "SCWCQDFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Management"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Accounting (Reporting & Management Accountability)",
+    "code": "SMMCOAFTCV01",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Accounting (Reporting & Management Accountability)"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Marketing",
+    "code": "SCWCQEFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Marketing"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Economics",
+    "code": "SCWAA01FCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Economics"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Public Administration",
+    "code": "SCWAA02FCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Public Administration"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Development Studies",
+    "code": "SCWAA04FCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Development Studies"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Master of Applied Statistics",
+    "code": "SCWAA03FCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Master of Applied Statistics"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Doctor of Business Administration",
+    "code": "KCWAA07FCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Doctor of Business Administration"
+  },
+  {
+    "faculty": "Faculty of Business & Economics",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSEVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page12.html",
+    "key": "Faculty of Business & Economics||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science in Applied Physics",
+    "code": "SCWSQAFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science in Applied Physics"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science in Statistics",
+    "code": "SCWSQBFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science in Statistics"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science in Instrumental Analytical Chemistry",
+    "code": "SCWSQCFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science in Instrumental Analytical Chemistry"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Sustainability Science",
+    "code": "SCWSQEFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Sustainability Science"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master in Environmental Management Technology",
+    "code": "SCWSQHFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master in Environmental Management Technology"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science in Biotechnology",
+    "code": "SCWSQIFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science in Biotechnology"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science in Crop Protection",
+    "code": "SCWSQGFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science in Crop Protection"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science Communication & Public Engagement",
+    "code": "SCWSQJFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science Communication & Public Engagement"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Petroleum Geoscience",
+    "code": "SCWSQDFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Petroleum Geoscience"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Bioinformatics",
+    "code": "SCWSQFFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Bioinformatics"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science in Applied Physics (Part-Time)",
+    "code": "SCWSQAPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science in Applied Physics (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master in Environmental Management Technology (Part-Time)",
+    "code": "SCWSQHPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master in Environmental Management Technology (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Master of Science",
+    "code": "SRSSMAFTCV04",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Master of Science"
+  },
+  {
+    "faculty": "Faculty of Science",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSSVAFTCV03",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page13.html",
+    "key": "Faculty of Science||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Media Studies",
+    "code": "SCWAQAFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Media Studies"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Chinese Studies",
+    "code": "SCWAQBFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Chinese Studies"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Library & Information Science",
+    "code": "SCWAQCFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Library & Information Science"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Gender Studies",
+    "code": "SCWAQDFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Gender Studies"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Arts (English Literature)",
+    "code": "SMMAOAFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Arts (English Literature)"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Arts (Malaysian History)",
+    "code": "SMMAOCFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Arts (Malaysian History)"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Arts (Southeast Asian Studies)",
+    "code": "SMMAODFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Arts (Southeast Asian Studies)"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Arts (Publishing Studies)",
+    "code": "SMMAOEFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Arts (Publishing Studies)"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Arts (Strategic & Defence Studies)",
+    "code": "SMMAOFFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Arts (Strategic & Defence Studies)"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Arts",
+    "code": "SRSAMAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Arts"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Information Science",
+    "code": "SRSAMBFTCV03",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Information Science"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Arts (Southeast Asian History)",
+    "code": "SMMAOBFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Arts (Southeast Asian History)"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Master of Gender Studies (Part-Time)",
+    "code": "SCWAQDPTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Master of Gender Studies (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Arts & Social Sciences",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSAVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page14.html",
+    "key": "Faculty of Arts & Social Sciences||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Master of Mechanical Engineering",
+    "code": "SCWKQKFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Master of Mechanical Engineering"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Master of Safety, Health & Environment Engineering",
+    "code": "SCWKQDFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Master of Safety, Health & Environment Engineering"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Master of Systems Engineering",
+    "code": "SCWKQCFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Master of Systems Engineering"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Master of Road Safety Engineering",
+    "code": "SCWKQLFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Master of Road Safety Engineering"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Master of Engineering Science",
+    "code": "SRSKMDFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Master of Engineering Science"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Master of Road Safety Engineering (Part-Time)",
+    "code": "SCWKQLPTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Master of Road Safety Engineering (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Master of Safety, Health and Environment Engineering (ODL)",
+    "code": "SCWKQDPTD03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Master of Safety, Health and Environment Engineering (ODL)"
+  },
+  {
+    "faculty": "Faculty of Engineering",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSKVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Faculty of Engineering||Doctor of Philosophy"
+  },
+  {
+    "faculty": "International Institute of Public Policy and Management",
+    "programme": "Master of Public Policy",
+    "code": "SCWZQAFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "International Institute of Public Policy and Management||Master of Public Policy"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Master of Renewable Energy",
+    "code": "SCWHQAFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Master of Renewable Energy"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Master of Applied Sciences (Nanotechnology)",
+    "code": "SMMHOBFTCV01",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Master of Applied Sciences (Nanotechnology)"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Master of Agricultural Biosecurity",
+    "code": "SCWHQBFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Master of Agricultural Biosecurity"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Master of Agricultural Biosecurity (Part-Time)",
+    "code": "SCWHQBPTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Master of Agricultural Biosecurity (Part-Time)"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Master of Applied Sciences (Nanotechnology) (Part-Time)",
+    "code": "SMMHOBPTCV01",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Master of Applied Sciences (Nanotechnology) (Part-Time)"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Master of Philosophy",
+    "code": "SRSHMAFTCV05",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Master of Philosophy"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Master of Advanced Studies",
+    "code": "SCWHQCFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Master of Advanced Studies"
+  },
+  {
+    "faculty": "Institute for Advanced Studies",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSHVAFTCV06",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page15.html",
+    "key": "Institute for Advanced Studies||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Pharmacy",
+    "programme": "Master of Medical Science",
+    "code": "SRSOMAFTCV01",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page16.html",
+    "key": "Faculty of Pharmacy||Master of Medical Science"
+  },
+  {
+    "faculty": "Faculty of Pharmacy",
+    "programme": "Master in Pharmaceutical Legislation and Regulatory Control",
+    "code": "SCWOQAFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page16.html",
+    "key": "Faculty of Pharmacy||Master in Pharmaceutical Legislation and Regulatory Control"
+  },
+  {
+    "faculty": "Faculty of Pharmacy",
+    "programme": "Master of Pharmaceutical Science in Drug Discovery and Development",
+    "code": "SCWOQBFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page16.html",
+    "key": "Faculty of Pharmacy||Master of Pharmaceutical Science in Drug Discovery and Development"
+  },
+  {
+    "faculty": "Faculty of Pharmacy",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSOVAFTCV01",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page16.html",
+    "key": "Faculty of Pharmacy||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Dentistry",
+    "programme": "Master of Dental Science",
+    "code": "SRSDMAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page16.html",
+    "key": "Faculty of Dentistry||Master of Dental Science"
+  },
+  {
+    "faculty": "Faculty of Dentistry",
+    "programme": "Master of Community Oral Health",
+    "code": "SCWDQDFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page16.html",
+    "key": "Faculty of Dentistry||Master of Community Oral Health"
+  },
+  {
+    "faculty": "Faculty of Dentistry",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSDVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page16.html",
+    "key": "Faculty of Dentistry||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Law",
+    "programme": "Master of Laws",
+    "code": "SCWLQAFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Law||Master of Laws"
+  },
+  {
+    "faculty": "Faculty of Law",
+    "programme": "Master of Commercial Law",
+    "code": "SCWLQBFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Law||Master of Commercial Law"
+  },
+  {
+    "faculty": "Faculty of Law",
+    "programme": "Master of Criminal Justice",
+    "code": "SCWLQCFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Law||Master of Criminal Justice"
+  },
+  {
+    "faculty": "Faculty of Law",
+    "programme": "Master of Legal Studies",
+    "code": "SRSLMAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Law||Master of Legal Studies"
+  },
+  {
+    "faculty": "Faculty of Law",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSLVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Law||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Architecture",
+    "code": "SCWBQDFTCV02",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Architecture"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Real Estate",
+    "code": "SCWBQAFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Real Estate"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Project Management",
+    "code": "SCWBQBFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Project Management"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Facilities & Maintenance Management",
+    "code": "SCWBQCFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Facilities & Maintenance Management"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Built Environment",
+    "code": "SRSBMAFTCV04",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Built Environment"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Real Estate (ODL)",
+    "code": "SCWBQAFTD03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Real Estate (ODL)"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Project Management (ODL)",
+    "code": "SCWBQBFTD03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Project Management (ODL)"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Master of Facilities and Maintenance Management (ODL)",
+    "code": "SCWBQCFTD03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Master of Facilities and Maintenance Management (ODL)"
+  },
+  {
+    "faculty": "Faculty of Built Environment",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSBVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page17.html",
+    "key": "Faculty of Built Environment||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Postgraduate Diploma in Education",
+    "code": "GCWPQIFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Postgraduate Diploma in Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Professional Counselling",
+    "code": "SCWPQAFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Professional Counselling"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Education in English as a Second Language",
+    "code": "SCWPQEFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Education in English as a Second Language"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Arabic Language Education",
+    "code": "SCWPQFFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Arabic Language Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Education",
+    "code": "SRSPMDFTCV23",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Science Education with Information Technology",
+    "code": "SCWPQCFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Science Education with Information Technology"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Mathematics Education with Technology",
+    "code": "SCWPQDFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Mathematics Education with Technology"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Education in Malay Language",
+    "code": "SCWPQGFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Education in Malay Language"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Islamic Education",
+    "code": "SCWPQJFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Islamic Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Humanities Education",
+    "code": "SCWPQKFTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Humanities Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Educational Technology",
+    "code": "SCWPQLFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Educational Technology"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Visual Art Education",
+    "code": "SCWPQMFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Visual Art Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Educational Leadership & Management",
+    "code": "SCWPQNFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Educational Leadership & Management"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Physical & Health Education",
+    "code": "SCWPQOFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Physical & Health Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Early Childhood Education",
+    "code": "SCWPQPFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Early Childhood Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Special Education",
+    "code": "SCWPQQFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Special Education"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Measurement & Assessment",
+    "code": "SCWPQRFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Measurement & Assessment"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Educational Psychology",
+    "code": "SCWPQSFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Educational Psychology"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Education (Part-Time)",
+    "code": "SRSPMDPTCV24",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Education (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Science Education with Information Technology (Part-Time)",
+    "code": "SCWPQCPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Science Education with Information Technology (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Mathematics Education with Technology (Part-Time)",
+    "code": "SCWPQDPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Mathematics Education with Technology (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Education in Malay Language (Part-Time)",
+    "code": "SCWPQGPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Education in Malay Language (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Islamic Education (Part-Time)",
+    "code": "SCWPQJPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Islamic Education (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Humanities Education (Part-Time)",
+    "code": "SCWPQKPTCV01",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Humanities Education (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Visual Art Education (Part-Time)",
+    "code": "SCWPQMPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Visual Art Education (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Educational Leadership & Management (Part-Time)",
+    "code": "SCWPQNPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Educational Leadership & Management (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Physical & Health Education (Part-Time)",
+    "code": "SCWPQOPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Physical & Health Education (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Early Childhood Education (Part-Time)",
+    "code": "SCWPQPPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Early Childhood Education (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Special Education (Part-Time)",
+    "code": "SCWPQQPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Special Education (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Measurement & Assessment (Part-Time)",
+    "code": "SCWPQRPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Measurement & Assessment (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Master of Educational Psychology (Part-Time)",
+    "code": "SCWPQSPTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Master of Educational Psychology (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Doctor of Philosophy (Part-Time)",
+    "code": "KMMPWAPTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Doctor of Philosophy (Part-Time)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Doctor of Philosophy (Mixed-Mode)",
+    "code": "KMMPWAFTCV03",
+    "mode": "Mixed-Mode",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Doctor of Philosophy (Mixed-Mode)"
+  },
+  {
+    "faculty": "Faculty of Education",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSPVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page18.html",
+    "key": "Faculty of Education||Doctor of Philosophy"
+  },
+  {
+    "faculty": "Asia-Europe Institute",
+    "programme": "Master in European Studies",
+    "code": "SCWQQBFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page19.html",
+    "key": "Asia-Europe Institute||Master in European Studies"
+  },
+  {
+    "faculty": "Asia-Europe Institute",
+    "programme": "Master in ASEAN Studies",
+    "code": "SCWQQDFTCV03",
+    "mode": "Coursework",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page19.html",
+    "key": "Asia-Europe Institute||Master in ASEAN Studies"
+  },
+  {
+    "faculty": "Asia-Europe Institute",
+    "programme": "Doctor of Philosophy",
+    "code": "KRSQVAFTCV02",
+    "mode": "Research",
+    "year": "2024/2025",
+    "source": "https://ebook.um.edu.my/MRC/Brochures/PG%202024/files/basic-html/page19.html",
+    "key": "Asia-Europe Institute||Doctor of Philosophy"
+  }
+]
